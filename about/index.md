@@ -10,6 +10,10 @@ comments: false
 * I am a dentist
 * I like traveling
 
+![My photo](/yukiko-shu/yukiko-shu.github.io/assets/img/IMG_20230915_142553.jpg)
+
+
+
 ## Preview
 
 {% capture images %}
