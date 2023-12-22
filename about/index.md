@@ -6,8 +6,6 @@ date: 2023-12-22
 comments: false
 ---
     
-<center><a href="http://taylantatli.github.io/Moon"> This is a home page of Yukiko Shu.</center>
-
 ## Who am I?
 * I am a dentist
 * I like traveling
