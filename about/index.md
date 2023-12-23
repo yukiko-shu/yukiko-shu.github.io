@@ -6,8 +6,7 @@ date: 2023-12-22
 comments: false
 ---
 
-<h1 style="text-align: center;">Yukiko Shu</h1>            
-
+<h1 style="text-align: center;">Yukiko Shu｜朱　薫子</h1>  
 ## Who am I?
 
 I am a Japanese dentist with a Master of Public Health (MPH) who is passionate about designing optimal workplaces/environments to enhance people's well-being and performance.
