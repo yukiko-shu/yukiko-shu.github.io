@@ -1,13 +1,13 @@
 ---
 layout: page
-title: About the Theme
+title: About 
 tags: [about, Jekyll, theme, moon]
 date: 2023-12-22
 comments: false
 ---
     
 ## Who am I?
-# Yukiko Shu
+### Yukiko Shu
 I am a Japanese dentist with a Master of Public Health (MPH) who is passionate about designing optimal workplaces/environments to enhance people's well-being and performance.
 
 
