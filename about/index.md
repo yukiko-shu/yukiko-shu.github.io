@@ -6,7 +6,7 @@ date: 2023-12-22
 comments: false
 ---
 
-<h1 style="text-align: center;">Yukiko Shu<h1>            
+<h1 style="text-align: center;">Yukiko Shu</h1>            
 
 ## Who am I?
 
