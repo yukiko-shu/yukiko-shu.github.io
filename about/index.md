@@ -4,8 +4,8 @@ title: About
 tags: [about, Jekyll, theme, moon]
 date: 2023-12-22
 comments: false
----
-    
+<h3 style="text-align: center;">H3 that is center aligned</h3>            
+
 ## Who am I?
 ### Yukiko Shu
 I am a Japanese dentist with a Master of Public Health (MPH) who is passionate about designing optimal workplaces/environments to enhance people's well-being and performance.
