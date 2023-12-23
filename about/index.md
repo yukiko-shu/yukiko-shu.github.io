@@ -7,8 +7,8 @@ comments: false
 ---
     
 ## Who am I?
-* I am a dentist
-* I like traveling
+* I am a Japanese dentist with a Master of Public Health (MPH) who is passionate about designing optimal workplaces/environments to enhance people's well-being and performance.
+
 
 ![My photo](/assets/img/IMG_20230915_142553.jpg)
 
